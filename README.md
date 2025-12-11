@@ -5,9 +5,7 @@ This project is continually updated as new features are added.
 
 ---
 
-## 🚀 Features
-
-planned features include:
+## 🚀 Planned Features
 
 - 🎂 **Birthday system** — store birthdays and send automatic congratulation messages  
 - 🎵 **Music player** — play, pause, skip, queue songs in voice channels  
