@@ -13,3 +13,9 @@ This project is continually updated as new features are added.
 - 😂 **Fun commands** — small games, random responses, and more  
 - 🔧 **Modular design** — easy to add new commands and modules  
 - 🧩 **Continuous updates** — new functions added over time
+
+---
+
+##  You Must Consider 👀
+
+- You have to add you bot's Token code in **Environment Variables** in your local pc
