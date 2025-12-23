@@ -8,10 +8,8 @@ This project is continually updated as new features are added.
 ## 🚀 Planned Features
 
 - 🎂 **Birthday system** — store birthdays and send automatic congratulation messages  
-- 🎵 **Music player** — play, pause, skip, queue songs in voice channels  
 - 🛠️ **Utility commands** — server info, user info, ping, etc.  
 - 😂 **Fun commands** — small games, random responses, and more  
-- 🔧 **Modular design** — easy to add new commands and modules  
 - 🧩 **Continuous updates** — new functions added over time
 
 ---
